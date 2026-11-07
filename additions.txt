@@ -1,0 +1,185 @@
+# Rucne doplnena hesla pro "Anglicko-cesky slovnik2"
+# Format: english <TAB> czech <TAB> pos
+# Zdroj: chybejici slova z knihy "Psmith in the City" (kategorie D, F a slova s pomlckou)
+
+# ===== D: slova s predponou un- =====
+unacquainted	neznalý; neseznámený	adj.
+unambitious	neambiciózní; bez ctižádosti	adj.
+unostentatiously	nenápadně; bez okázalosti	adv.
+unrestful	neklidný; nespočinutý	adj.
+unstirred	nerozvířený; neporušený	adj.
+unsuspicious	nic netušící; bez podezření	adj.
+unwrinkled	nenakrčený; hladký	adj.
+uncensured	neokřiknutý; bez pokárání	adj.
+un-snug	neútulný; nekomfortní	adj.
+
+# ===== F: vzacna, dialektova, cizi, okazionalismy =====
+dickens	čert; u všech čertů ("what the dickens")	n.
+er	éé; hmm (zaváhání)	interj.
+affably	vlídně; přívětivě	adv.
+op	hop; ("'op it") vypadni (nář. "hop")	v.
+half-Nelson	půlnelson (zápasnický chvat)	n.
+leaderette	krátký úvodník (žurnalistika)	n.
+rayther	docela; poněkud (komolé "rather")	adv.
+a-legging	běžící; uhánějící (nář.)	adj.
+abart	o; okolo (nář. "about")	prep.
+absentness	nepřítomnost (duchem); roztržitost	n.
+aigs	vejce (nář. "eggs")	n.
+aitches	háčka (písmena H)	n.
+blitherer	hlupák; ťulpas	n.
+blitherers	hlupáci; ťulpasové	n.
+coatsleeve	rukáv kabátu	n.
+cocos	kokosy	n.
+cordiale	srdečný; ("entente cordiale") srdečná dohoda	adj.
+cuff-protectors	chrániče manžet	n.
+dahn	dolů (nář. "down")	adv.
+de	z; ze (francouzská předložka)	prep.
+driblets	drobnůstky; maličkosti	n.
+eart	srdce (nář. "heart")	n.
+employe	zaměstnanec (zastaralé)	n.
+excursus	exkurs; odbočka	n.
+fice	mizera; syčák (nadávka)	n.
+fieldsmen	hráči v poli (kriket)	n.
+finnan	uzená treska ("finnan haddock")	n.
+heye-glass	monokl ("eye-glass")	n.
+iear	ucho; slyš (nář. "ear" nebo "hear")	n.
+im	ho; jej (nář. "him")	pron.
+impune	beztrestně (latinsky)	adv.
+introducer	uvaděč; kdo uvádí řečníka	n.
+lacessit	dráždí; provokuje (latinsky)	v.
+mangel-wurzel	krmná řepa; mangold	n.
+mensem	měsíc (latinsky; "per mensem" = měsíčně)	n.
+noblesse	noblesa; šlechta	n.
+originality	originalita; původnost	n.
+parti-coloured	dvoubarevný; strakatý	adj.
+pro-Billites	příznivci návrhu zákona	n.
+roselike	růži podobný	adj.
+sizzler	pecka; bomba (rychlý míč, trhák)	n.
+smiter	udeřující; bijec	n.
+soft-hearted	dobrosrdečný; měkkého srdce	adj.
+soupcon	špetka; nádech ("soupçon")	n.
+speckless	bez poskvrnky; čistý	adj.
+stuffier	upjatější; nudnější (2. stupeň)	adj.
+three-shies-a-penny	tři hody za penny (pouťová hra)	n.
+trem	tramvaj (nář. "tram")	n.
+turmuts	tuřín; řepa (nář. "turnips")	n.
+vertu	umělecké předměty; kuriozity ("objets de vertu")	n.
+whanged	práskl; udeřil ("whang")	v.
+wot	který; jenž (nář. "what/that")	pron.
+yer	ty; tebe (nář. "you")	pron.
+t'other	ten druhý ("the other")	pron.
+
+# ===== slova s pomlckou =====
+about-to-be-washed	který má být vykoupaný	adj.
+alcohol-expert	odborník na alkohol	n.
+and-b	"c. and b." = chycen a vyřazen (kriket)	n.
+attendance-book	kniha docházky (návštěv)	n.
+award-winning	oceněný; nositel ceny	adj.
+bank-clerk	bankovní úředník	n.
+bank-manager	ředitel banky	n.
+benevolent-looking	s dobrotivým výrazem	adj.
+billiard-room	biliárová místnost	n.
+billiard-table	biliárový stůl	n.
+biscuit-mine	bohatý zdroj sušenek (přeneseně)	n.
+boiled-fish	vařená ryba	n.
+bowling-screen	clona za nadhazovačem (kriket)	n.
+brass-rag-parting	šarvátka; roztržka	n.
+brass-rubbing	frotáž mosazných desek (koníček)	n.
+breakfast-food	snídaňová cereálie	n.
+bridge-player	hráč bridge	n.
+cloth-capped	v látkové čapce	adj.
+co-messenger	spolu-posel; kolega posel	n.
+colour-scheme	barevné schéma	n.
+counter-door	přepážková dvířka	n.
+crab-like	krabovitý; krabím způsobem	adj.
+cricket-field	kriketové hřiště	n.
+cross-counter	protiúder (box)	n.
+cross-screen	přecházející přes clonu (kriket)	adj.
+dinner-table	jídelní stůl	n.
+dram-drinking	popíjení (dram = hlt)	n.
+drip-drip	kap-kap (kapání)	interj.
+earnest-looking	s upřímným výrazem	adj.
+easily-fired	snadno vznětlivý	adj.
+eating-house	jídelna; hospoda	n.
+eighty-five	osmdesát pět	num.
+eighty-nine	osmdesát devět	num.
+eighty-one	osmdesát jedna	num.
+ex-occupants	bývalí držitelé (místa)	n.
+extra-cover	extra cover (kriketová pozice)	n.
+fair-sized	přiměřeně velký	adj.
+fifty-nine	padesát devět	num.
+finger-impressions	otisky prstů	n.
+finger-marks	stopy po prstech	n.
+four-mile	čtyřmílový	adj.
+friendly-disposed	přátelsky naladěný	adj.
+good-fellowship	kamarádství; družnost	n.
+good-morning	dobré ráno	interj.
+green-shaded	se zeleným stínidlem	adj.
+ground-man	správce hřiště ("groundsman")	n.
+half-day	půlden	n.
+half-hidden	napůl skrytý	adj.
+half-measures	polovičatá opatření	n.
+half-volley	kriketový úder z voleje	n.
+hat-stand	věšák na klobouky	n.
+highly-trained	vysoce vycvičený	adj.
+home-staff	domácí personál; kmenoví zaměstnanci	n.
+hunched-up	shrbený; nahrbený	adj.
+ill-will	nevraživost; zlá vůle	n.
+india-rubber	guma (na mazání)	n.
+jam-tart	zavařeninový koláč	n.
+ledger-lugging	vláčení účetních knih	n.
+leg-theory	kriketová taktika "leg theory"	n.
+line-out	vhazování ze zámezí (rugby)	n.
+long-hop	dlouhý hop (kriket)	n.
+luggage-van	zavazadlový vůz	n.
+many-headed	mnohohlavý	adj.
+mistake-clerk	úředník pro stížnosti	n.
+much-bound	silně omotaný (o pálce)	adj.
+nerve-strain	nervové vypětí	n.
+off-stump	kriketová tyč "off"	n.
+office-hours	úřední hodiny; pracovní doba	n.
+over-staffed	s nadbytečným personálem	adj.
+peach-bloom	květ broskve (barva)	n.
+pen-holder	držák na pero	n.
+pleasure-seekers	hledači rozkoší	n.
+plum-colour	švestková barva	n.
+plum-coloured	švestkově zbarvený	adj.
+polling-day	den voleb	n.
+Pooh-Bah	Pooh-Bah (muž mnoha úřadů, z "Mikáda")	n.
+postage-desk	přepážka pro poštovní zásilky	n.
+pro-Spiller	příznivec Spillera	n.
+programme-girl	prodavačka programů	n.
+punching-machine	děrovací stroj	n.
+red-faced	s červeným obličejem	adj.
+ring-wearing	nosící prsteny	adj.
+rose-garden	růžová zahrada	n.
+run-getting	získávání bodů (kriket)	n.
+school-report	školní vysvědčení	n.
+sea-voyage	námořní plavba	n.
+second-rank	druhořadý; druhé kategorie	adj.
+self-reproach	sebevýčitky	n.
+seventy-eight	sedmdesát osm	num.
+seventy-one	sedmdesát jedna	num.
+shock-headed	s rozcuchanými vlasy	adj.
+side-whiskers	licousy; kotlety	n.
+sleight-of-hand	hbitost rukou; kejkle	n.
+smoking-room	kuřácký salonek	n.
+stage-manage	režírovat; dirigovat	v.
+stamp-collecting	sbírání známek	n.
+stern-faced	s přísným obličejem	adj.
+Stone-Flinging	kamenem házející; kamenometný	adj.
+supper-bell	zvonek k večeři	n.
+tea-making	příprava čaje	n.
+telegraph-board	výsledková tabule (kriket)	n.
+thin-lipped	s tenkými rty	adj.
+thirty-three-bites	třiatřicet kousnutí (na sousto)	n.
+three-figure	trojciferný (o částce)	adj.
+three-quarters-of-an-hour	tři čtvrtě hodiny	n.
+tissue-restoring	občerstvující; obnovující tkáň	adj.
+ultra-scientific	ultravědecký	adj.
+waistcoat-button	knoflík u vesty	n.
+walking-across-the-screen	přecházení přes clonu (kriket)	n.
+What's-his-name	ten, jak se jmenuje	pron.
+what's-its-name	ta věc, jak se jmenuje	pron.
+yellow-haired	světlovlasý	adj.
+iawinyaw	komolá nesrozumitelná řeč (dialekt)	n.
