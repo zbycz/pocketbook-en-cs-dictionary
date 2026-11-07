@@ -1,6 +1,6 @@
 # PocketBook EN→CS slovník
 
-<h1 align="center">⬇️&nbsp;<a href="https://github.com/zbycz/pocketbook-en-cs-dictionary/raw/main/en-cs2.dic">STÁHNOUT SLOVNÍK (en-cs2.dic)</a>&nbsp;⬇️</h1>
+<h1 align="center">➡️&nbsp;<a href="https://github.com/zbycz/pocketbook-en-cs-dictionary/raw/main/en-cs2.dic">STÁHNOUT SLOVNÍK (en-cs2.dic)</a>&nbsp;⬅️</h1>
 
 Stačí zkopírovat do `/system/dictionaries/` ve čtečce.
 
