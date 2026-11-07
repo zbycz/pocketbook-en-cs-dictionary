@@ -27,6 +27,6 @@ Potřeba: `python3`, `java` 17+, `git`, `curl`.
 - Hledání ignoruje velikost písmen, diakritiku, interpunkci, pomlčky i apostrofy
   (takže `pen-holder` = `penholder`, `don’t` = `dont`).
 - Ohebné tvary řeší morphemy ze `cs/morphems.txt`: `poising → poise`, `flitted → flit`.
-- Zdroj: <https://dl.cihar.com/slovnik/stardict-english-czech-latest-source.tar.gz>
+- Zdroj: <http://cs.cihar.com/software/slovnik/> <https://dl.cihar.com/slovnik/stardict-english-czech-latest-source.tar.gz>
 - Nástroje: [joao-a-cardoso/pb-dic-converter](https://github.com/joao-a-cardoso/pb-dic-converter),
   [Markismus/LanguageFilesPocketbookConverter](https://github.com/Markismus/LanguageFilesPocketbookConverter)
