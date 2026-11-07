@@ -1,6 +1,8 @@
 # PocketBook EN→CS slovník
 
-StarDict Anglicko-český slovník → PocketBook `.dic`.
+<h1 align="center">⬇️&nbsp;<a href="https://github.com/zbycz/pocketbook-en-cs-dictionary/raw/main/en-cs2.dic">STÁHNOUT SLOVNÍK (en-cs2.dic)</a>&nbsp;⬇️</h1>
+
+Stačí zkopírovat do `/system/dictionaries/` ve čtečce.
 
 ## Build
 
@@ -10,12 +12,11 @@ Potřeba: `python3`, `java` 17+, `git`, `curl`.
 ./build.sh        # -> en-cs2.dic
 ```
 
-Pak zkopíruj `en-cs2.dic` do `/system/dictionaries/` ve čtečce.
-
 ## Soubory
 
 | | |
 |---|---|
+| `en-cs2.dic` | **hotový slovník** (88 792 hesel) |
 | `build.sh` | stáhne zdroj i nástroje a postaví `.dic` |
 | `convert_en_cs.py` | `en-cs.txt` → XDXF (POS, dělení hesel typu `bbq = barbeque`) |
 | `additions.txt` | +176 ručních hesel (`EN`⇥`CS`⇥`POS`) |
